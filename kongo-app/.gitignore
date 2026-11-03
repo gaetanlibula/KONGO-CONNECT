@@ -1,0 +1,22 @@
+# Variables et sauvegardes confidentielles
+.env*
+
+# Dépendances et fichiers générés
+node_modules/
+.next/
+out/
+build/
+coverage/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# Journaux et copies temporaires
+*.log
+*.bak
+*.old
+*.orig
+*.tmp
+*~
+.DS_Store
+Thumbs.db
